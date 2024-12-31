@@ -1,0 +1,131 @@
+WEbsite creation:
+
+Astro foundation on which to build sites, flexible
+look and feel from a theme - (Starlight, etc, 
+
+Step 1- looking for astro themes
+	blog style? 
+	showed Cat's website - many/ mostly pertinent features
+		banner at top above menu? more minimalistic now? 
+Tailwind?
+
+	"Big hero" image just below the menu, which should be fine - changeable as new releases approach- (maybe by world, with covers of books on one side, world image background dominating the other side (left))
+
+
+
+(((
+Database- of books (covers, titles, blurbs, release dates, buy links)
+  To be used:
+     in a carousel on the home page
+     On World and Genre pages to allow people to find the works online/read them on my site or Patreon, find chronologies, anecdotes, character and fan art, future releases, etc. (Future releases should also be their own page or on a calendar, possibly also on the home page as Cat has w/appearances, at least until I have enough appearances to fill that space and releases get bumped to the calendar page.
+
+Maybe links ot resources for requesting my books from libraries
+	also templates/ suggestions for how to write a review (a stumbling block for getting some people to do so?)
+
+
+webspace w/Rob for now
+No commitment to long term hosts(5-10yr poss)
+Investment in building it.
+)))
+
+
+
+
+
+
+features:
+
+Author portfolios
+responsive design - mobile friendly nav menus/layout
+carousel library - there's a component (github/claudiabdm/astro-crousel/blob/main/src/carouself.astro) 
+	some inherent formatting, JS to run it, chain links and related images
+	should be easy to add <A href>
+	but does it move?
+	use Swiper?(already included in Pinwheel) Pinwheel?- seems legit.
+
+Discuss/comments available
+using pnpm similar launch to edit /build/ test(dev)
+
+
+pnpm install
+
+
+node package managers- (npm, pnpm, yarn)
+
+placing images- johntemp/public/images
+  can add text before oor after (don't forget paragraph tags (<P>)
+
+good for this theme- floating menu that stays at toip as you scroll downthe page, always accessible!
+
+figuring it out:
+
+Where is floating, seemingly separate from page- a component? yes, "pageheader.astro") menu defined? menu.jason / config.json
+		includes place for logo, settings for length of summary
+
+Starting small- what's the minimum viable product?
+	((commenting things out/ coming soon pages))
+
+Customizable 404 page!
+
+Changelog (updates)
+
+src/config has a lot of settings
+
+
+mostly pages and images, links, 
+
+
+best way to approach the diff worlds- YAML/frontmatter call to components for pages type-  "Worlds" etc.
+
+
+diff content collections (not just "docs" as in Rob's site) can group these types in folders in content. (content in md/mdx, formatted with a layout (see [single].astro in career collection)
+(container is a grid box, allows for pre-arranged boxes with diff info, border, color, font, etc -  maybe images on the side? - covers, characters, etc) in career: wide coolumn/thin column - keep backup of the page to refer to.
+
+worlds
+series
+books
+(maybe blogs)
+
+github.com account, build monorepo
+
+github signup 
+
+jamccolley@gmail.com
+JAMcColley
+
+password: 603starlight
+
+(loading the mono into github at above account) which will allow me to see it and mess with it? 
+
+johntmp/jamono
+pindraft (from pinwheel)
+
+
+git pull https://github.com/JAMcColley/jamono.git
+
+how do I get pnpm for VS Code/Github
+.git is git storage
+
+got something set up on Rob's computer where we can see (and build!) a dev server to experiment. 
+
+currently built with npm, moving to pnpm (faster, tighter, less space taken on disc)
+
+GitBash 
+
+want to be able to type pnpm from anywhere, (corepack)
+
+
+
+
+- take bits from other themes, like "paper"
+
+
+
+
+
+
+(Rob will be in NH this weekend... $$?)
+
+
+
+

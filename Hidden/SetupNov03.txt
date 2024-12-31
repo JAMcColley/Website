@@ -1,0 +1,81 @@
+Website w/ Rob
+
+
+JohnAMcColley.XYZ  URL ($2 for first year, build and flesh out before porting to another host)
+
+Rob has Virtual Private Server- looks like a machine
+You own a Domain, the DNS int he background, the Internet is all just IP #s, needs DNS to convert.
+Need to tell the world that the johnamccolley.xyz is at that particular IP number.
+
+(Via namecheap)
+
+starting out in a "Certain type of hell" called..?
+DNS to change domain name to IP#
+
+HOST IP: 199.192.19.223
+
+domain information groper (DIG) (testing DNA  propagation?)
+
+Setting up a host/server
+
+Rob is making space for me 
+username: johnamccolley.xyz ?
+
+apprenticetovengeance47!  management password
+
+
+MySQL database support, it looks like
+(possibly also for forums?)
+
+
+Getting to point of having a WordPRess site
+This is a work in progress, see my media links:
+https://www.patreon.com/JohnAMcColley
+https://www.tiktok.com/@johnmccolley631?lang=en
+
+
+we have a shared hosting, costing Rob nothing, as he has a gigantic server. 
+we want to move from shared to wordpress hosting.
+installing WP is really simpel once you know what you're doing.
+Usually done by script (here via VirtualMin)
+"John McColley's Testing Wordpress site" - can be changed at any time.
+in File Manager-
+installing WordPress version 6.0.3
+
+johnamccolley.xyz/wp-admin
+
+https: is better than old school http: takes some time to set up and isn't properly done yet.
+
+login on WordPress as JohnAMcColley, apprenticetovengeance47!
+
+needs www.?
+
+confusion and frustration, Google and feel better or try a bunch of things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
